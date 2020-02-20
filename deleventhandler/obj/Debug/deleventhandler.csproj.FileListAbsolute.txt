@@ -1,0 +1,7 @@
+d:\Users\Admin\source\repos\deleventhandler\deleventhandler\bin\Debug\deleventhandler.exe.config
+d:\Users\Admin\source\repos\deleventhandler\deleventhandler\bin\Debug\deleventhandler.exe
+d:\Users\Admin\source\repos\deleventhandler\deleventhandler\bin\Debug\deleventhandler.pdb
+d:\Users\Admin\source\repos\deleventhandler\deleventhandler\obj\Debug\deleventhandler.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\deleventhandler\deleventhandler\obj\Debug\deleventhandler.csproj.CoreCompileInputs.cache
+d:\Users\Admin\source\repos\deleventhandler\deleventhandler\obj\Debug\deleventhandler.exe
+d:\Users\Admin\source\repos\deleventhandler\deleventhandler\obj\Debug\deleventhandler.pdb
